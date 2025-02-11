@@ -1,0 +1,15 @@
+For this assignment, you will write the SQL Statements for the following using the BikeStore database:
+
+1. Insert a new brand name on the production.brands table.
+
+2. Update the production.categories table to change the record "Mountain Bikes" to say "Mountain Adventure Bikes".
+
+3. Delete the customer, Charolette Rice, from the sales.customers table.
+
+4. Insert 2 new customers to the sales.customers table. (You can make up the data you input into the table.)
+
+5. Modify the sales.stores table column, email to be a data type of varchar(50).
+
+6. Create a query that returns all the product names and length of the product name from the production.products table sorted by the length of the product name in descending order.
+
+7. Create a query that returns the staff name from the sales.staffs table by combining the staff's first and last name in one column. Sort by last name in ascending order.
